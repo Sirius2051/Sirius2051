@@ -6,3 +6,13 @@
 >  ***I’m doing badly, I’m doing well; whichever you prefer.***
 >
 > **- Franz Kafka**
+---
+My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
+
+- I love math. ❤️
+- I love every cat in the universe. 😺
+- I'm currently working on personal projects. 💻
+- I'm currently learning English and Data Science. 🧠
+- [Ask me about anything you need. 💬](https://t.me/sirius2051)
+
+---
