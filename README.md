@@ -14,6 +14,3 @@ My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
 - I'm currently working on personal projects. 💻
 - I'm currently learning English and Data Science. 🧠
 - [Ask me about anything you need. 💬](https://t.me/sirius2051)
-
----
-[![Spotify](novatorem-gvqq8vp7p-sirius2051.vercel.app)]()
