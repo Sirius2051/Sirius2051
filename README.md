@@ -1,7 +1,8 @@
 # **<span class="__header-text">I'm Sirius</span>**
 ![Twitter Follow](https://img.shields.io/twitter/follow/sirius2051?color=e30032&label=%20%20Jos%C3%A9%20Alejandro%20Avil%C3%A9&style=for-the-badge)
-
 ![Gitter](https://img.shields.io/gitter/room/sirius2051/sirius2051?color=E30032&label=Sirius2051&style=for-the-badge)
+
+<img src="https://pbs.twimg.com/profile_banners/1138268406212378624/1627466375/1500x500">
 
 >  ***I’m doing badly, I’m doing well; whichever you prefer.***
 >
