@@ -1,5 +1,5 @@
 # **<span class="__header-text">I'm Sirius</span>**
-[![Twitter Follow](https://img.shields.io/twitter/follow/sirius2051?color=E30032&label=José Alejandro Avilé   &logo=Twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/sirius2051)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sirius2051?color=E30032&label="José Alejandro Avilé"&logo=Twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/sirius2051)
 
 ![Gitter](https://img.shields.io/gitter/room/sirius2051/sirius2051?color=E30032&label=Sirius2051)
 
