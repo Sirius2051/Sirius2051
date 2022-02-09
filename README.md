@@ -17,8 +17,9 @@ My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
 - I'm currently working on personal projects. 💻
 - I'm currently learning English and Data Science. 🧠
 ---
-### Stacks
 
+<!-- 
+### Stacks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/>
@@ -34,8 +35,9 @@ My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
 <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" width="30px"/><img src="https://cdn.cdnlogo.com/logos/b/32/blender.svg" width="30px"/>
 
 <br>
-
+ 
 ---
+-->
 If you can...
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/sirius2051)
