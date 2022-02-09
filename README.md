@@ -18,4 +18,4 @@ My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
 ---
 If you can...
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/sirius2051)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/sirius2051){:target="_blank"}
