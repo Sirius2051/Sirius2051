@@ -6,7 +6,7 @@
 > **- Franz Kafka**
 ---
 ### About me
-My name is José Alejandro Avilé, but call me *Sirius*. I'm a Developer an Artist.
+My name is Alejandro, but call me *Sirius*. I'm a Developer an Artist.
 
 - I love math. ❤️
 - I love every cat in the universe. 😺
