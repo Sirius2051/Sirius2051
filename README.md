@@ -1,5 +1,5 @@
 # **<span class="__header-text">I'm Sirius</span>**
-<img src="https://pbs.twimg.com/profile_banners/1138268406212378624/1707704108/1500x500">
+<img src="https://pbs.twimg.com/profile_banners/1138268406212378624/1708340289/600x200">
 
 >  ***I’m doing badly, I’m doing well; whichever you prefer.***
 >
